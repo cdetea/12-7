@@ -1,0 +1,98 @@
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/100italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/200italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/500italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IBM Plex Sans';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/88692/Desktop/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/%E9%9D%9C%E5%AE%9C/%E5%A4%A7%E4%B8%89/%E8%A7%80%E5%85%89%E5%AA%92%E9%AB%94%E8%A8%AD%E8%A8%88/project/fonts/IBM Plex Sans/700italic.ttf') format('truetype');
+}
